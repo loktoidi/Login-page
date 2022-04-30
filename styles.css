@@ -2,7 +2,7 @@ body{
     margin:0;
     padding:0;
     font-family: Segoe Print;
-    background:url(/images/survivor.jpg);
+    background:url(images/survivor.jpg);
     background-size:cover;
 }
 
@@ -61,7 +61,7 @@ body{
 }
 
 .box input[type=submit]:hover {
-background: ;
+background:rgb(96, 7, 7, 0.6) ;
 }
 
 .footer .border-highlight{
